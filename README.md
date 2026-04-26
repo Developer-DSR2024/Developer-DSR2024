@@ -88,8 +88,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmendra-developer&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-developer&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Developer-DSR2024&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-DSR2024&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -122,7 +122,13 @@
 ## 📌 Featured Projects
 
 ### Arogya Bot
+🌿 ArogyaBot — AI-Powered Rural Health Assistant
 
+🔗  
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/dharmendra-star/ai-chatbot)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ### 🤖 AI Chatbot  
